@@ -12,7 +12,7 @@ $data[] = array(
   'label' => 'Project 2',
   'start' => '2012-04-22', 
   'end'   => '2012-05-22'
-);
+)
 
 $data[] = array(
   'label' => 'Project 3',
